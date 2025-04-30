@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="xposeddescription">屏蔽Oplus机型在电量低于2时自动进入超级省电模式</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">OplusTest</string>
+    <string name="xposeddescription">hook autoEnterOrExitSuperSave</string>
+</resources>
